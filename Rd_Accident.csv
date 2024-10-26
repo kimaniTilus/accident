@@ -1,0 +1,4 @@
+Date,Time,Weather Condition,Road Surface,Light Condition,Vehicle Speed (km/h),Traffic Control Present,Road Type,Accident Severity
+JAN 1ST,12:00,Rainy,Wet,Daylight,50,1,Highway,10
+FEB 1ST,21:45,Clear,Dry,Night with lights,89,0,Local road,8
+MARCH 1ST,22:40,Foggy,Wet,Daylight,20,1,Residential,7
